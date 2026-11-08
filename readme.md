@@ -1,4 +1,5 @@
-# Three.js Journey
+<img width="1013" height="918" alt="image" src="https://github.com/user-attachments/assets/7763752a-a3f5-406b-97af-dc5f2ccea748" />
+
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
